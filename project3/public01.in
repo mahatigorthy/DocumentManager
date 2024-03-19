@@ -1,0 +1,3 @@
+# creating a paragraph and inserting some lines
+add_paragraph_after 0
+add_line_after 1 *         second line of the document
